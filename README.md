@@ -106,3 +106,28 @@ Submission of this, static, final key words and instanceof operator Level 1 Lab 
 - final
 - instance of operator
 
+Assignment 11
+06-02-2025 
+feature_06-02-2025
+
+Submission of Object Oriented Design Principles Object Oriented Design Principles
+
+-Class Diagram
+-Object Diagrams
+-Sequence Diagrams
+
+Assignment 12
+07-02-2025
+feature_07-02-2025
+
+Submission of Inheritance
+
+- Inheritance
+- Single Level Inheritance
+- Multilevel Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance in Java
+- Polymorphism and Inheritance
+- Access Modifiers and Inheritance
