@@ -72,14 +72,10 @@ The outcome is the usage of Strings
 Handling strings and common string functions
 Functions and function parameter passing, return the value of function.
 
-Assignment 7
-29-01-2025
-feature_29-01-2025
-
 Built-In Function Practice Problem
 Usage of built in Functions and build the logic in java programming.
 
-Assignment 8
+Assignment 7
 31-01-2025
 feature_31-01-2025
 
@@ -87,7 +83,7 @@ Submission of Java Class and Object
 -Procedural vs Object-oriented Programming Language
 -Class and Object
 
-Assignment 9
+Assignment 8
 02-02-2025
 feature_02-02-2025
 
@@ -96,7 +92,7 @@ Submission of Java Constructors, Instance vs. Class Variables, Access Modifiers 
 -Instance vs. Class Variables
 -Access Modifiers Level 1
 
-Assignment 10
+Assignment 9
 04-02-2025
 feature_04-02-2025
 
@@ -106,7 +102,7 @@ Submission of this, static, final key words and instanceof operator Level 1 Lab 
 - final
 - instance of operator
 
-Assignment 11
+Assignment 10
 06-02-2025 
 feature_06-02-2025
 
@@ -116,7 +112,7 @@ Submission of Object Oriented Design Principles Object Oriented Design Principle
 -Object Diagrams
 -Sequence Diagrams
 
-Assignment 12
+Assignment 11
 07-02-2025
 feature_07-02-2025
 
@@ -131,3 +127,19 @@ Submission of Inheritance
 - Constructor Inheritance in Java
 - Polymorphism and Inheritance
 - Access Modifiers and Inheritance
+
+Assignment 12
+10-02-2025
+feature_10-02-2025
+
+Submission of Encapsulation, Polymorphism, Interface and Abstract Class
+
+Assignment 13
+11-02-2025
+feature_11-02-2025
+
+Submission of Data Structure - LinkedList
+- Single Linked List
+- Double Linked List
+- Circular Linked List
+  
